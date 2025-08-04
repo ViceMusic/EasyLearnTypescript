@@ -20,6 +20,11 @@ Another type includes javascript, python
 
 > ❓In fact, Many languages can compile and create target files automatically thouth they are regarded as interpreted language. For instance, Javascript used to be executed directly can be compiled into machine code(although without checking) by V8 engine(used in some famous software such as Node.js).
 
+You might ask: Isn’t JavaScript already good enough?
+Yes, but JavaScript is an interpreted language, meaning it runs code directly without checking for type errors or structure consistency. This flexibility can sometimes cause runtime bugs that are hard to trace.
+
+By contrast, TypeScript is a compiled language. You write TypeScript files (.ts), and before they can be run, they must be compiled into JavaScript files (.js). During this step, TypeScript performs type checks and other validations that can help you find mistakes early.
+
 For typescipt, it can not be executed directly, to some extent, some people argue that it isn't a programing language. Acturlly, typescript is a normalization of javascript, with type and compile pre checking.
 
 And Why we call it compiled language while javascript is regarded as interpreted language? We can execute a javascript file by Node.js runtime or brower's core(both in V8). And if you want to launch a project written by typescript, you need to turn this project into javascript. Like below 😛:

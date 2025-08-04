@@ -7,6 +7,11 @@ This github targets to introduce typescript from the viewer of fresh learner.
 The knowledge are collected from many documents and videos online , listed below.
 
 >
-> Thank to
-> 
+>😀
 >
+
+By the way， if you are keen on ts, I will need you assistance by providing pr.
+
+And I will appreicate it if you can add some details Because my poor english.
+
+So shameful....
