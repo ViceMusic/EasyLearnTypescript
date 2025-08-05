@@ -1,16 +1,16 @@
-# Let learn TypeScript togather
+# Let's learn TypeScript together
 
-> NOTICE:   this instruction is only suitable for Windows, the versions of linux or mac still have not schedule now.
+> NOTICE: This instruction is only suitable for Windows, the versions of linux or mac still have not schedule now.
 
-This github targets to introduce typescript from the viewer of fresh learner. 
+🎯This repo aims to introduce TypeScript for beginners. 
 
-The knowledge are collected from many documents and videos online , listed below.
+📖Here are some resources I gathered from many documents and online videos.
 
 >
 >😀
 >
 
-By the way， if you are keen on ts, I will need you assistance by providing pr.
+By the way, if you are keen on ts, I will need your assistance by providing pr.
 
 And I will appreicate it if you can add some details Because my poor english.
 
